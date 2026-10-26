@@ -1,0 +1,5 @@
+{
+  "name": "CargoFlow 3D",
+  "description": "A modern 3D load planning interface for visualizing truck cargo spaces.",
+  "requestFramePermissions": []
+}
